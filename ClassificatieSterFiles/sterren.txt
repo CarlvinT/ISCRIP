@@ -1,0 +1,11 @@
+ster	spectraalklasse	temperatuur	lichtkracht	massa	straal
+Nu Ophiuchi	K0	4928	123	3.04	14
+Epsilon Sagittarii	B9	5807	0.89	0.95	6.8
+Beta Ceti	K0	4797	139.1	2.8	16.78
+Alpha Columbae	B7	12963	1000	4.5	5.8
+Omicron Ursae Majoris	G4	5242	138	3.09	14
+Zeta Aquilae	A0	9620	39.4	2.37	2.27
+Beta Lyrae	B6	13300	6.500	2.97	15
+Beta Ursae Minoris	K4	4030	390	2.2	42.06
+Beta Herculis	G7	4887	151	0.9	17
+Pi Orionis	F6	6516	2.822	1.236	1.323
