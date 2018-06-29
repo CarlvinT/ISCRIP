@@ -51,7 +51,7 @@ def klassen(dic):
         classed = classificatie(stars[data][0], stars[data][1])
 
         if classed in klassenDic:
-
+            #Needs to be fixed
             klassenDic[classed] += data
 
         else:
